@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arunsrao.netlify.app/sitemap.xml
